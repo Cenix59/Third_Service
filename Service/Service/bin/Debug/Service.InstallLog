@@ -1,0 +1,43 @@
+﻿Instalando ensamblado 'C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\bin\Debug\Service.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\bin\Debug\Service.exe
+   logfile = C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\bin\Debug\Service.InstallLog
+Instalando el servicio Service1...
+Creando el origen de EventLog Service1 en el registro Application...
+Deshaciendo ensamblado 'C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\bin\Debug\Service.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\bin\Debug\Service.exe
+   logfile = C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\bin\Debug\Service.InstallLog
+Restaurando el registro de eventos al estado anterior para el origen Service1.
+Instalando ensamblado 'C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\bin\Debug\Service.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\bin\Debug\Service.exe
+   logfile = C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\bin\Debug\Service.InstallLog
+Deshaciendo ensamblado 'C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\bin\Debug\Service.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\bin\Debug\Service.exe
+   logfile = C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\bin\Debug\Service.InstallLog
+Instalando ensamblado 'C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\bin\Debug\Service.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\bin\Debug\Service.exe
+   logfile = C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\bin\Debug\Service.InstallLog
+Deshaciendo ensamblado 'C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\bin\Debug\Service.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\bin\Debug\Service.exe
+   logfile = C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\bin\Debug\Service.InstallLog
+Instalando ensamblado 'C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\bin\Debug\Service.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\bin\Debug\Service.exe
+   logfile = C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\bin\Debug\Service.InstallLog
+Deshaciendo ensamblado 'C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\bin\Debug\Service.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\bin\Debug\Service.exe
+   logfile = C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\bin\Debug\Service.InstallLog

@@ -1,0 +1,10 @@
+C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\bin\Debug\Service.exe.config
+C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\bin\Debug\Service.exe
+C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\bin\Debug\Service.pdb
+C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\obj\Debug\Service.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\obj\Debug\Service.ProjectInstaller.resources
+C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\obj\Debug\Service.csproj.GenerateResource.cache
+C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\obj\Debug\Service.exe
+C:\Users\nicof\OneDrive\Escritorio\6to\Windows\Service\Service\obj\Debug\Service.pdb

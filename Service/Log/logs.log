@@ -1,0 +1,5 @@
+2023-09-08 10:42:59 - Log - Inicio del Servicio, - Servicio Iniciado
+2023-09-08 10:43:27 - Log - Inicio del Servicio, - Servicio Iniciado
+2023-09-08 10:44:43 - Log - Service_Error al crear servicio - '-869682127,9312' no es un valor válido para 'Interval'. 'Interval' debe ser mayor que 0.
+2023-09-08 10:47:20 - Log - Service_Error al crear servicio - '-869839830,5989' no es un valor válido para 'Interval'. 'Interval' debe ser mayor que 0.
+2023-09-08 10:49:53 - Log - Service_Error al crear servicio - '-869992866,1888' no es un valor válido para 'Interval'. 'Interval' debe ser mayor que 0.
